@@ -1,0 +1,10 @@
+.dx-g-bs4-paging-panel{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.clearfix::after{
+    content: unset;
+}
